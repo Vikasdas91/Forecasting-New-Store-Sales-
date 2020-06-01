@@ -1,4 +1,6 @@
-# IndustryPracticum
+# Graduate Student Analytics Consultant
+# National Auto Parts Retailer
+
 Industry project completed as part of MS Business Analytics program for a National Auto-Parts retailer 
 
 Automotive aftermarket is forecasted to growing at the rate of 12.5% for the next five years. With this exponential growth, one of biggest dilemma for a company is to understand areas to invest in and to understand how quickly can they break-even once a store is opened.
